@@ -1,0 +1,9 @@
+.now
+node_modules
+
+.DS_Store
+.next
+misc
+cms/dist
+cms/production-data*
+

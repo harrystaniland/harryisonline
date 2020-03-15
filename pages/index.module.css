@@ -1,0 +1,30 @@
+.section {
+}
+
+.section img {
+  width: 100%;
+}
+
+.section a {
+  text-decoration: none;
+  color: white;
+}
+
+.section .title {
+  visibility: hidden;
+  font-size: 30px;
+  position: relative;
+  top: 240px;
+}
+
+.section:hover .title {
+  visibility: visible;
+}
+
+.section .image {
+  visibility: visible;
+}
+
+.section:hover .image {
+  visibility: hidden;
+}

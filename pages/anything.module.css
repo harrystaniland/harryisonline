@@ -1,0 +1,12 @@
+.section {
+  text-align: center;
+}
+
+.section img {
+  max-width: 100%;
+}
+
+.section a {
+  text-decoration: none;
+  color: white;
+}
