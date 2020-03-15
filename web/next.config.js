@@ -35,6 +35,7 @@ const reduceRoutes = (obj, route) => {
 }
 
 module.exports = withCSS({
+  // exportTrailingSlash: true,
   cssModules: true,
   cssLoaderOptions: {
     importLoaders: 1,
